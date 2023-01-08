@@ -16,3 +16,15 @@ Program ini dibuat menggunakan bahasa dan tool sebagai berikut:
 - [C](https://www.geeksforgeeks.org/c-programming-language/) is a procedural programming language. It was initially developed by Dennis Ritchie as a system programming language to write operating system.
 - [Code::Blocks](https://www.codeblocks.org/)
 Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+
+## Instalation
+- Download [Code::Blocks](https://www.codeblocks.org/)
+- Clone this Repository
+- Open via [Code::Blocks](https://www.codeblocks.org/)
+- Run
+
+## Program Test
+
+- Halaman Awal
+![image-small](https://user-images.githubusercontent.com/88796834/211204184-72360355-8365-4d22-b522-3cdf19355fff.png)
+
