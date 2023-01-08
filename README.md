@@ -28,3 +28,11 @@ Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding ne
 - Halaman Awal
 ![image-small](https://user-images.githubusercontent.com/88796834/211204184-72360355-8365-4d22-b522-3cdf19355fff.png)
 
+- Proses Input Data Diri
+![image-small](https://user-images.githubusercontent.com/88796834/211204245-f871be22-9c89-40e9-a680-880608e7b1d0.png)
+
+- Proses Input Nilai
+![image-small](https://user-images.githubusercontent.com/88796834/211204272-10b9bbe9-e552-449f-99c7-1c45a85e5d37.png)
+
+- Hasil / Output
+![image-small](https://user-images.githubusercontent.com/88796834/211204321-c4dadf31-ba83-456b-afa3-917257c36a12.png)
